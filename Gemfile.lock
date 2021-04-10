@@ -1,0 +1,22 @@
+GIT
+  remote: https://github.com/faker-ruby/faker.git
+  revision: 7f0173e10faa047992e936db104870ed24af7479
+  branch: master
+  specs:
+    faker (2.18.0)
+      i18n (>= 1.6, < 2)
+
+GEM
+  specs:
+    concurrent-ruby (1.1.8)
+    i18n (1.8.9)
+      concurrent-ruby (~> 1.0)
+
+PLATFORMS
+  universal-darwin-20
+
+DEPENDENCIES
+  faker!
+
+BUNDLED WITH
+   2.2.15
